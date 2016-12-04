@@ -1,0 +1,18 @@
+{
+    "appTitle": "1g0: let's play go!",
+    "cancelAction": "Cancel",
+    "confirmTitle": "Confirm",
+    "problem": "Problem",
+    "OK": "OK",
+    "cancel": "Cancel",
+    "play": "Play",
+    "load": "Load",
+    "loadGame": "Load game",
+    "saveGame": "Save game",
+    "review": "Review",
+    "endReview": "End review",
+    "resign": "Resign",
+    "pass": "Pass",
+    "undo": "Undo",
+    "settings": "Settings"
+}
