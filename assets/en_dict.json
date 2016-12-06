@@ -9,6 +9,7 @@
     "load": "Load",
     "loadGame": "Load game",
     "saveGame": "Save game",
+    "downloadLatest": "Download latest (LittleGolem)",
     "review": "Review",
     "endReview": "End review",
     "resign": "Resign",
