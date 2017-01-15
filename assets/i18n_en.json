@@ -27,6 +27,7 @@
     "#resignConfirm": "Do you really want to resign?",
     "#settings": "Settings",
     "#fromFile": "From file:",
+    "#selectFile": "Select file",
     "#recentGames": "Recent games:",
     "#fromText": "From copy/paste:",
     "#fromTextHelp": "(e.g. \"d5,e3,...\" or in SGF format)"
