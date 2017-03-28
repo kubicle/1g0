@@ -3,7 +3,7 @@
     "#cancelAction": "Cancel",
     "#confirmTitle": "Confirm",
     "#problem": "Problem",
-    "#OK": "OK",
+    "#ok": "OK",
     "#yes": "YES",
     "#no": "NO",
     "#cancel": "Cancel",
@@ -12,7 +12,6 @@
     "#play": "Play",
     "#load": "Load",
 
-    "#settings": "Settings",
     "#newGame": "New game",
     "#myGames": "My games",
     "#importGame": "Import a game",
@@ -34,6 +33,10 @@
     "#empty": "(empty)",
     "#myGamesHelp": "Any game you create or load/edit will be added to this list",
 
+    "#settings": "Settings",
+    "#colorTheme": "Color theme",
+    "#setupDropbox": "Setup Dropbox",
+
     "#review": "Study",
     "#endStudy": "End study",
     "#evalScore": "Evaluate score",
@@ -45,7 +48,7 @@
 
     "#syncGame": "Sync game with cloud",
     "#syncMyGames": "Sync my games with cloud",
-    "#syncStart": "Syncing...",
+    "#syncStart": "Connecting...",
     "#noCloud": "Not connected to cloud",
     "#archivedGame": "[archived %1]",
     "#remote": "[remote %1]",
