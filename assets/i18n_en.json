@@ -14,7 +14,7 @@
 
     "#newGame": "New game",
     "#myGames": "My games",
-    "#importGame": "Import a game",
+    "#importGame": "Import games",
     "#exportGame": "Export game",
     "#downloadLatest": "Download latest",
 
@@ -46,8 +46,8 @@
     "#undo": "Undo",
     "#resignConfirm": "Do you really want to resign?",
 
-    "#syncGame": "Sync game with cloud",
-    "#syncMyGames": "Sync my games with cloud",
+    "#syncGame": "Sync this game",
+    "#syncMyGames": "Sync my games",
     "#syncStart": "Connecting...",
     "#noCloud": "Not connected to cloud",
     "#archivedGame": "[archived %1]",
