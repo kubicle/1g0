@@ -1,4 +1,7 @@
 {
+    "#noInternet": "Error: no internet connection",
+    "#httpReqError": "Http error %1 while requesting %2",
+
     "#appTitle": "1g0: let's play go!",
     "#cancelAction": "Cancel",
     "#confirmTitle": "Confirm",
@@ -41,12 +44,20 @@
     "#review": "Study",
     "#endStudy": "End study",
     "#evalScore": "Evaluate score",
-    "#bookmark": "Bookmark",
+    "#bookmark": "Bookmark on/off",
     "#rewindAll": "Back to game start",
+    "#gotoLastMove": "Go to last move",
+    "#prune": "Delete this variation",
+    "#pruneConfirm": "Deletion of variation %1 (%3 moves starting by %2)?",
+
     "#resign": "Resign",
     "#pass": "Pass",
     "#undo": "Undo",
     "#resignConfirm": "Do you really want to resign?",
+
+    "#getLatestGame": "Get latest game moves",
+    "#retrieving": "Retrieving game %2 from %1...",
+    "#retrieved": "Game updated.",
 
     "#syncGame": "Sync this game",
     "#syncMyGames": "Sync my games",
