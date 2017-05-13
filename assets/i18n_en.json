@@ -27,6 +27,7 @@
     "#fromText": "From copy/paste:",
     "#fromTextHelp": "Paste game in SGF format, e.g. (;FF[4]...)",
     "#invalidSgf": "Invalid SGF game\n(game starts with \"%1...\")",
+    "#mergeDivergence": "Merge error: games diverge at move #%1",
     "#archivedGames": "Archived games",
     "#deleteGame": "Delete",
     "#deleteGameConfirm": "Do you really want to delete this game?",
@@ -45,8 +46,8 @@
     "#endStudy": "End study",
     "#evalScore": "Evaluate score",
     "#bookmark": "Bookmark on/off",
-    "#rewindAll": "Back to game start",
-    "#gotoLastMove": "Go to last move",
+    "#rewindAll": "Go to game start",
+    "#gotoLastMove": "Go to game last move",
     "#prune": "Delete this variation",
     "#pruneConfirm": "Deletion of variation %1 (%3 moves starting by %2)?",
 
