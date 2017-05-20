@@ -54,6 +54,11 @@
     "#resign": "Resign",
     "#pass": "Pass",
     "#undo": "Undo",
+    "#next": "Next",
+    "#nextN": "Next %1",
+    "#finish": "Finish",
+    "#accept": "Accept",
+    "#refuse": "Refuse",
     "#resignConfirm": "Do you really want to resign?",
 
     "#getLatestGame": "Get latest game moves",
