@@ -37,6 +37,7 @@
     "#restoreGame": "Restore",
     "#empty": "(empty)",
     "#myGamesHelp": "Any game you create or load/edit will be added to this list",
+    "#confirmSave": "Do you want to save this game, so you can continue it or study it later?",
 
     "#settings": "Settings",
     "#colorTheme": "Color theme",
