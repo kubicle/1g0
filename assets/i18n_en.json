@@ -6,6 +6,7 @@
     "#cancelAction": "Cancel",
     "#confirmTitle": "Confirm",
     "#problem": "Problem",
+    "#helpTip": "Help tip",
     "#ok": "OK",
     "#yes": "YES",
     "#no": "NO",
@@ -61,6 +62,9 @@
     "#accept": "Accept",
     "#refuse": "Refuse",
     "#resignConfirm": "Do you really want to resign?",
+    "#cycleBookmarks": "Use this button to cycle through bookmarks. First, move to another position and set another bookmark.",
+    "#add": "Add",
+    "#remove": "Remove",
 
     "#getLatestGame": "Get latest game moves",
     "#retrieving": "Retrieving game %2 from %1...",
