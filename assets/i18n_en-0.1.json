@@ -43,6 +43,9 @@
     "#settings": "Settings",
     "#colorTheme": "Color theme",
     "#setupDropbox": "Setup Dropbox",
+    "#devMenu": "Dev Menu",
+    "#resetAll": "Reset all",
+    "#resetAllConfirm": "All your unsynced game studies will be lost, are you sure?",
 
     "#review": "Study",
     "#endStudy": "End study",
