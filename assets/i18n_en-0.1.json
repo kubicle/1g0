@@ -64,6 +64,8 @@
     "#finish": "Finish",
     "#accept": "Accept",
     "#refuse": "Refuse",
+    "#slowAutomatic": "Slower",
+    "#gameStarted": "Game started...",
     "#resignConfirm": "Do you really want to resign?",
     "#cycleBookmarks": "Use this button to cycle through bookmarks. First, move to another position and set another bookmark.",
     "#add": "Add",
