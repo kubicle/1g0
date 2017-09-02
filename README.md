@@ -2,12 +2,13 @@
 
 Javascript igo analyser & static AI.
 
-- [run it](https://rawgit.com/kubicle/1g0/master/index.html) in your browser.
+- [run it](https://ig0.herokuapp.com/) in your browser.
 
-- or if you now why you are doing it, try the latest, and potentially unstable, [testing version](https://raw.githack.com/kubicle/1g0/testing/index.html).
+- or if you now why you are doing it, try the latest, and potentially unstable, [testing version](https://ig0.herokuapp.com/?test=1).
 
 Dependencies
 ============
 
-- [WGo.js](http://github.com/waltheri/wgo.js) is included in the project
+- Uses [Gobo](https://github.com/kubicle/gobo) for board rendering
+
 - Browserify, watchify, lessify and uglifyJS are used for the build
