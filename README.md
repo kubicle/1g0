@@ -2,8 +2,6 @@
 
 Javascript igo analyser & static AI.
 
-[Run it](https://ig0.herokuapp.com/) in your browser.
-
 
 ![1g0-1](https://user-images.githubusercontent.com/5130338/38174325-75b9e308-3606-11e8-9a48-3a8a64e16366.jpg)
 
